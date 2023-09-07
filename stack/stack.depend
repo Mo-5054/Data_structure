@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693095065 source:c:\users\momo\desktop\amit\linked_list\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+
